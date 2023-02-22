@@ -5,13 +5,14 @@ I implemented the code using python#3.9(recommended)
 
 ## Clone the Repo
 Clone the repository through the following command:
+
 git clone https://github.com/MubashirAhmad12/ross1.git
 
 
 ## Pre-requisites Installation
 1- Sentence Transformer Library:
 
-You can install through pip install -U sentence-transformers
+You can install it through: pip install -U sentence-transformers
 
 2- openai
 
