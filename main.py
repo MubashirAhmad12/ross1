@@ -57,7 +57,7 @@ def text_extractor_from_cv(filepath):
     
 
 def main():
-    csv_file = 'C:/Users/XEVEN-DEV/Documents/xeven/ross_project/dataset/resume_dataset/Resume/Resume_small1.csv'
+    csv_file = 'data/Resume_small1.csv'
     embedding_file = 'resume_embeddings.csv'
     df_embedd = get_cv_embedd(csv_file)
     df_similarity = similarity_check(embedding_file)
