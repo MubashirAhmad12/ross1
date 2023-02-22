@@ -9,8 +9,9 @@ git clone https://github.com/MubashirAhmad12/ross1.git
 
 
 ## Pre-requisites Installation
-1- Sentence Transformer Library
-pip install -U sentence-transformers
+1- Sentence Transformer Library:
+
+You can install through pip install -U sentence-transformers
 
 2- openai
 
