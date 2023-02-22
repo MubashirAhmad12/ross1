@@ -26,6 +26,9 @@ You can install it through: pip install -U sentence-transformers
 ### Run the openAI python file through the following command:
 python main.py
 
+(You have to enter the API key in the password)
+
 ### Run the custom model python file through the following command:
 python sentence_transformer_class.py
 
+(You have to add the Description of the CV's you require)
